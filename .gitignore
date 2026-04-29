@@ -10,6 +10,16 @@ venv/
 ENV/
 .venv/
 
+
+
+.idea
+.venv
+.adk
+.env
+*.env
+**/__pycache__/
+*.pem
+*.cer
 # -------------------------------------
 # Jupyter
 .ipynb_checkpoints/
